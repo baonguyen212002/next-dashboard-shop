@@ -1,0 +1,37 @@
+[
+    {
+        "month": "Jan",
+        "sales": 4000,
+        "revenue": 3000
+    },
+    {
+        "month": "Feb",
+        "sales": 3000,
+        "revenue": 2500
+    },
+    {
+        "month": "Mar",
+        "sales": 5000,
+        "revenue": 4200
+    },
+    {
+        "month": "Apr",
+        "sales": 4500,
+        "revenue": 3800
+    },
+    {
+        "month": "May",
+        "sales": 6000,
+        "revenue": 5100
+    },
+    {
+        "month": "Jun",
+        "sales": 5500,
+        "revenue": 4800
+    },
+    {
+        "month": "Jul",
+        "sales": 4800,
+        "revenue": 4200
+    }
+]

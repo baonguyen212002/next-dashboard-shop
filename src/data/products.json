@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "iPhone 15 Pro",
+        "category": "Smartphones",
+        "price": "$1,299.00",
+        "stock": 145,
+        "unitsSold": 234,
+        "status": "In Stock"
+    },
+    {
+        "id": 2,
+        "name": "Samsung Galaxy S24",
+        "category": "Smartphones",
+        "price": "$999.00",
+        "stock": 89,
+        "unitsSold": 187,
+        "status": "In Stock"
+    },
+    {
+        "id": 3,
+        "name": "Google Pixel 8",
+        "category": "Smartphones",
+        "price": "$699.00",
+        "stock": 62,
+        "unitsSold": 142,
+        "status": "In Stock"
+    },
+    {
+        "id": 4,
+        "name": "MacBook Pro 16\"",
+        "category": "Laptops",
+        "price": "$2,499.00",
+        "stock": 38,
+        "unitsSold": 88,
+        "status": "In Stock"
+    },
+    {
+        "id": 5,
+        "name": "Dell XPS 15",
+        "category": "Laptops",
+        "price": "$1,899.00",
+        "stock": 27,
+        "unitsSold": 64,
+        "status": "In Stock"
+    },
+    {
+        "id": 6,
+        "name": "iPad Air",
+        "category": "Tablets",
+        "price": "$599.00",
+        "stock": 53,
+        "unitsSold": 102,
+        "status": "In Stock"
+    },
+    {
+        "id": 7,
+        "name": "AirPods Pro",
+        "category": "Audio",
+        "price": "$249.00",
+        "stock": 112,
+        "unitsSold": 175,
+        "status": "In Stock"
+    },
+    {
+        "id": 8,
+        "name": "Apple Watch Series 9",
+        "category": "Wearables",
+        "price": "$399.00",
+        "stock": 74,
+        "unitsSold": 98,
+        "status": "In Stock"
+    }
+]

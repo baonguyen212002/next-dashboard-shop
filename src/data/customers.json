@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "John Smith",
+        "email": "john.smith@example.com",
+        "phone": "+1 (555) 123-4567",
+        "location": "New York, USA",
+        "orders": 12,
+        "spent": "$5,840.00",
+        "status": "active"
+    },
+    {
+        "id": 2,
+        "name": "Emma Wilson",
+        "email": "emma.wilson@example.com",
+        "phone": "+1 (555) 234-5678",
+        "location": "Los Angeles, USA",
+        "orders": 8,
+        "spent": "$3,290.00",
+        "status": "active"
+    },
+    {
+        "id": 3,
+        "name": "Michael Brown",
+        "email": "michael.brown@example.com",
+        "phone": "+1 (555) 345-6789",
+        "location": "Chicago, USA",
+        "orders": 5,
+        "spent": "$2,150.00",
+        "status": "active"
+    },
+    {
+        "id": 4,
+        "name": "Sarah Johnson",
+        "email": "sarah.johnson@example.com",
+        "phone": "+1 (555) 456-7890",
+        "location": "Houston, USA",
+        "orders": 10,
+        "spent": "$4,720.00",
+        "status": "active"
+    },
+    {
+        "id": 5,
+        "name": "David Lee",
+        "email": "david.lee@example.com",
+        "phone": "+1 (555) 567-8901",
+        "location": "Miami, USA",
+        "orders": 3,
+        "spent": "$1,890.00",
+        "status": "inactive"
+    },
+    {
+        "id": 6,
+        "name": "Jennifer Garcia",
+        "email": "jennifer.garcia@example.com",
+        "phone": "+1 (555) 678-9012",
+        "location": "Seattle, USA",
+        "orders": 7,
+        "spent": "$3,450.00",
+        "status": "active"
+    },
+    {
+        "id": 7,
+        "name": "Robert Martinez",
+        "email": "robert.martinez@example.com",
+        "phone": "+1 (555) 789-0123",
+        "location": "Boston, USA",
+        "orders": 4,
+        "spent": "$2,100.00",
+        "status": "active"
+    },
+    {
+        "id": 8,
+        "name": "Lisa Anderson",
+        "email": "lisa.anderson@example.com",
+        "phone": "+1 (555) 890-1234",
+        "location": "Denver, USA",
+        "orders": 2,
+        "spent": "$980.00",
+        "status": "inactive"
+    }
+]
